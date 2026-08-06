@@ -1,0 +1,1 @@
+Ordner für kampf-encounters
