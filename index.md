@@ -1,5 +1,5 @@
 ---
-title: Faerun Kampagne Übersicht
+title: Faerun Kampagne Startseite
 description: Navigation zu allen Ordnern und Dokumenten der Kampagne
 ---
 
